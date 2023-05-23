@@ -1,4 +1,5 @@
 # Exchange_bot
 This bot converts currencies
 Requires modules: redis, pyTelegramBotAPI, requests;
-Requires your own file with your telegramm-bot token, token for api on https://app.currencyapi.com/api-keys
+Add to CONSTANT_INFO your telegram-bot token, api token from https://app.currencyapi.com/api-keys, information of your redis BD: host, port, password
+
